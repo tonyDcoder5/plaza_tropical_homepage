@@ -2,7 +2,7 @@
   "name": "plaza_t_homepage",
   "version": "0.1.0",
   "private": true,
-  "hompage": "https://tonydcoder5.github.io/plaza_tropical_homepage/",
+  "hompage": "https://tonyDcoder5.github.io/plaza_tropical_homepage/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
